@@ -1,0 +1,17 @@
+C:\Users\Matheus.daSilva\source\repos\SectionALab\SectionALab\bin\Debug\net6.0-windows\SectionALab.exe
+C:\Users\Matheus.daSilva\source\repos\SectionALab\SectionALab\bin\Debug\net6.0-windows\SectionALab.deps.json
+C:\Users\Matheus.daSilva\source\repos\SectionALab\SectionALab\bin\Debug\net6.0-windows\SectionALab.runtimeconfig.json
+C:\Users\Matheus.daSilva\source\repos\SectionALab\SectionALab\bin\Debug\net6.0-windows\SectionALab.dll
+C:\Users\Matheus.daSilva\source\repos\SectionALab\SectionALab\bin\Debug\net6.0-windows\SectionALab.pdb
+C:\Users\Matheus.daSilva\source\repos\SectionALab\SectionALab\obj\Debug\net6.0-windows\SectionALab.csproj.AssemblyReference.cache
+C:\Users\Matheus.daSilva\source\repos\SectionALab\SectionALab\obj\Debug\net6.0-windows\SectionALab.Form1.resources
+C:\Users\Matheus.daSilva\source\repos\SectionALab\SectionALab\obj\Debug\net6.0-windows\SectionALab.csproj.GenerateResource.cache
+C:\Users\Matheus.daSilva\source\repos\SectionALab\SectionALab\obj\Debug\net6.0-windows\SectionALab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus.daSilva\source\repos\SectionALab\SectionALab\obj\Debug\net6.0-windows\SectionALab.AssemblyInfoInputs.cache
+C:\Users\Matheus.daSilva\source\repos\SectionALab\SectionALab\obj\Debug\net6.0-windows\SectionALab.AssemblyInfo.cs
+C:\Users\Matheus.daSilva\source\repos\SectionALab\SectionALab\obj\Debug\net6.0-windows\SectionALab.csproj.CoreCompileInputs.cache
+C:\Users\Matheus.daSilva\source\repos\SectionALab\SectionALab\obj\Debug\net6.0-windows\SectionALab.dll
+C:\Users\Matheus.daSilva\source\repos\SectionALab\SectionALab\obj\Debug\net6.0-windows\refint\SectionALab.dll
+C:\Users\Matheus.daSilva\source\repos\SectionALab\SectionALab\obj\Debug\net6.0-windows\SectionALab.pdb
+C:\Users\Matheus.daSilva\source\repos\SectionALab\SectionALab\obj\Debug\net6.0-windows\SectionALab.genruntimeconfig.cache
+C:\Users\Matheus.daSilva\source\repos\SectionALab\SectionALab\obj\Debug\net6.0-windows\ref\SectionALab.dll
