@@ -77,6 +77,7 @@
             btnSumArray.TabIndex = 3;
             btnSumArray.Text = "Sum Array";
             btnSumArray.UseVisualStyleBackColor = true;
+            btnSumArray.Click += btnSumArray_Click;
             // 
             // txtSubscript
             // 
@@ -84,6 +85,7 @@
             txtSubscript.Name = "txtSubscript";
             txtSubscript.Size = new Size(117, 23);
             txtSubscript.TabIndex = 4;
+            txtSubscript.Text = "0";
             // 
             // txtHowManyDisplay
             // 
@@ -91,6 +93,7 @@
             txtHowManyDisplay.Name = "txtHowManyDisplay";
             txtHowManyDisplay.Size = new Size(117, 23);
             txtHowManyDisplay.TabIndex = 5;
+            txtHowManyDisplay.Text = "0";
             // 
             // btnDisplayRange
             // 
@@ -100,6 +103,7 @@
             btnDisplayRange.TabIndex = 6;
             btnDisplayRange.Text = "Display Range";
             btnDisplayRange.UseVisualStyleBackColor = true;
+            btnDisplayRange.Click += btnDisplayRange_Click;
             // 
             // label2
             // 
